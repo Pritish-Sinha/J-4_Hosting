@@ -1,0 +1,16 @@
+[11/Dec/2021:16:15:08] (I): WordPress Instance Info:
+[11/Dec/2021:16:15:08] (I): Home URL : http://localhost/wordpress
+[11/Dec/2021:16:15:08] (I): Site URL : http://localhost/wordpress
+[11/Dec/2021:16:15:08] (I): WordPress Version : 5.8.2
+[11/Dec/2021:16:15:08] (I): Onboarding Version : 1.1.19
+[11/Dec/2021:16:15:08] (I): Multisite : No
+[11/Dec/2021:16:15:08] (I): Server Info : Apache
+[11/Dec/2021:16:15:08] (I): PHP Version : 7.4.25
+[11/Dec/2021:16:15:08] (I): HTTPS : No
+[11/Dec/2021:16:15:08] (I): PHP Max Execution Time : 120
+[11/Dec/2021:16:15:08] (I): PHP Max Input Vars : 1000
+[11/Dec/2021:16:15:08] (I): Max Upload Size : 41943040
+[11/Dec/2021:16:15:08] (I): Plugins:
+[11/Dec/2021:16:15:08] (I): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.7.4 (ThemeIsle)
+[11/Dec/2021:16:15:08] (I): [PLUGIN] Templates Patterns Collection : v1.1.19 (ThemeIsle)
+[11/Dec/2021:16:15:08] (I): [PLUGIN] WPForms Lite : v1.7.1.2 (WPForms)
